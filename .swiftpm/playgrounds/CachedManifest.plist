@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6IkVtcGFjdCIsInBh
+		Y2thZ2VLaW5kIjp7InJvb3QiOnt9fSwicGxhdGZvcm1zIjpbeyJvcHRpb25z
+		IjpbXSwicGxhdGZvcm1OYW1lIjoiaW9zIiwidmVyc2lvbiI6IjE2LjAifV0s
+		InByb2R1Y3RzIjpbeyJuYW1lIjoiRW1wYWN0Iiwic2V0dGluZ3MiOlt7ImJ1
+		bmRsZUlkZW50aWZpZXIiOlsiLS5FbXBhY3QiXX0seyJ0ZWFtSWRlbnRpZmll
+		ciI6WyI3SzRSWUxHOEc3Il19LHsiZGlzcGxheVZlcnNpb24iOlsiMS4wIl19
+		LHsiYnVuZGxlVmVyc2lvbiI6WyIxIl19LHsiaU9TQXBwSW5mbyI6W3siYWNj
+		ZW50Q29sb3IiOnsiYXNzZXQiOnsibmFtZSI6IkFjY2VudENvbG9yIn19LCJh
+		cHBJY29uIjp7ImFzc2V0Ijp7Im5hbWUiOiJBcHBJY29uIn19LCJjYXBhYmls
+		aXRpZXMiOlt7InB1cnBvc2UiOiJjYW1lcmEiLCJwdXJwb3NlU3RyaW5nIjoi
+		VW5rbm93biBVc2FnZSBEZXNjcmlwdGlvbiJ9LHsicHVycG9zZSI6InJlbWlu
+		ZGVycyIsInB1cnBvc2VTdHJpbmciOiJVbmtub3duIFVzYWdlIERlc2NyaXB0
+		aW9uIn1dLCJzdXBwb3J0ZWREZXZpY2VGYW1pbGllcyI6WyJwYWQiLCJwaG9u
+		ZSJdLCJzdXBwb3J0ZWRJbnRlcmZhY2VPcmllbnRhdGlvbnMiOlt7InBvcnRy
+		YWl0Ijp7fX0seyJsYW5kc2NhcGVSaWdodCI6e319LHsibGFuZHNjYXBlTGVm
+		dCI6e319LHsicG9ydHJhaXRVcHNpZGVEb3duIjp7ImNvbmRpdGlvbiI6eyJk
+		ZXZpY2VGYW1pbGllcyI6WyJwYWQiXX19fV19XX1dLCJ0YXJnZXRzIjpbIkFw
+		cE1vZHVsZSJdLCJ0eXBlIjp7ImV4ZWN1dGFibGUiOm51bGx9fV0sInN3aWZ0
+		TGFuZ3VhZ2VWZXJzaW9ucyI6WyI2Il0sInRhcmdldE1hcCI6eyJBcHBNb2R1
+		bGUiOnsiZGVwZW5kZW5jaWVzIjpbXSwiZXhjbHVkZSI6W10sIm5hbWUiOiJB
+		cHBNb2R1bGUiLCJwYWNrYWdlQWNjZXNzIjp0cnVlLCJwYXRoIjoiLiIsInJl
+		c291cmNlcyI6W10sInNldHRpbmdzIjpbXSwidHlwZSI6ImV4ZWN1dGFibGUi
+		fX0sInRhcmdldHMiOlt7ImRlcGVuZGVuY2llcyI6W10sImV4Y2x1ZGUiOltd
+		LCJuYW1lIjoiQXBwTW9kdWxlIiwicGFja2FnZUFjY2VzcyI6dHJ1ZSwicGF0
+		aCI6Ii4iLCJyZXNvdXJjZXMiOltdLCJzZXR0aW5ncyI6W10sInR5cGUiOiJl
+		eGVjdXRhYmxlIn1dLCJ0b29sc1ZlcnNpb24iOnsiX3ZlcnNpb24iOiI2LjAu
+		MCJ9fQ==
+		</data>
+		<key>manifestHash</key>
+		<data>
+		52lbg7a6amCUCrt+KHtVH33NNvW9d2wvhM3hhH0YHoA=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>6.0.2-dev</string>
+	</dict>
+</dict>
+</plist>
