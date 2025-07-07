@@ -25,7 +25,6 @@ Empact is a motivational app designed to inspire people to make a positive impac
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/LukasKa5/Empact.swiftpm.git
-    Open the project:
 
 2. **Open the Empact.swiftpm folder in Xcode.**
 
